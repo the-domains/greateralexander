@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[GreaterAlexander]]></title>
         <description><![CDATA[GreaterAlexander]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/greateralexander/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 18:10:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 18:11:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/greateralexander/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[With the lessons learned from the release of Bag of Bones, I am now looking for your support on Patreon. Pledge $1 per song to help further my career in recording music. http://www.patreon.com/greateralexander]]></title>
             <description><![CDATA[<article><h1>With the lessons learned from the release of Bag of Bones, I am now looking for your support on Patreon. Pledge $1 per song to help further my career in recording music. http://www.patreon.com/greateralexander</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c72242aeec614ed312eff9441d8d1270380daae2.gif"></article>]]></description>
-            <link>undefinedwith-the-lessons-learned-from-the-release-of-bag-of-bones-i/index.html</link>
+            <link>https://thegrid.ai/greateralexander/with-the-lessons-learned-from-the-release-of-bag-of-bones-i/index.html</link>
             <guid isPermaLink="false">50ff2627-01fe-4320-9312-a6c48a316f63</guid>
-            <pubDate>Sat, 26 Mar 2016 18:10:43 GMT</pubDate>
+            <pubDate>Sat, 26 Mar 2016 18:11:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
