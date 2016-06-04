@@ -1,5 +1,4 @@
-favicon: null
-name: GreaterAlexander
+layout_spectrum: 1
 opengraph:
   image: null
   type: null
@@ -10,26 +9,25 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.5232975
   brandStrength: 0.5591398
-  lightness: 0.1379928
+  rhythmicContrast: 0.5197133
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  rhythmicContrast: 0.5197133
-typography_spectrum: 0.6810036
-layout_spectrum: 0.9175627
+  lightness: 0.1379928
+typography_spectrum: 0.1971326
 cta:
   bucket: null
   version: null
@@ -38,3 +36,5 @@ analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: GreaterAlexander
