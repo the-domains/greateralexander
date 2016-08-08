@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[GreaterAlexander]]></title>
-        <description><![CDATA[GreaterAlexander]]></description>
+        <title><![CDATA[Greater Alexander]]></title>
+        <description><![CDATA[Greater Alexander]]></description>
         <link>https://thegrid.ai/greateralexander/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 18:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 03:31:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/greateralexander/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[With the lessons learned from the release of Bag of Bones, I am now looking for your support on Patreon. Pledge $1 per song to help further my career in recording music. http://www.patreon.com/greateralexander]]></title>
-            <description><![CDATA[<article><h1>With the lessons learned from the release of Bag of Bones, I am now looking for your support on Patreon. Pledge $1 per song to help further my career in recording music. http://www.patreon.com/greateralexander</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c72242aeec614ed312eff9441d8d1270380daae2.gif"></article>]]></description>
+            <title><![CDATA[Bag of Bones and Partreon]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d6ed4f3-3baa-4dd6-bac8-05d18d03ab45.gif">]]></description>
             <link>https://thegrid.ai/greateralexander/with-the-lessons-learned-from-the-release-of-bag-of-bones-i/index.html</link>
             <guid isPermaLink="false">50ff2627-01fe-4320-9312-a6c48a316f63</guid>
-            <pubDate>Sat, 26 Mar 2016 18:11:19 GMT</pubDate>
+            <pubDate>Mon, 08 Aug 2016 03:31:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
