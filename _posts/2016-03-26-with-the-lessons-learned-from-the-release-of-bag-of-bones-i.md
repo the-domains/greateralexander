@@ -1,23 +1,27 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-26T18:11:19.068Z'
-dateModified: '2016-03-26T18:11:18.748Z'
+description: >-
+  With the lessons learned from the release of Bag of Bones, I am now looking
+  for your support on Patreon. Pledge $1 per song to help further my career in
+  recording music. http://www.patreon.com/greateralexander
+datePublished: '2016-08-08T03:31:29.740Z'
+dateModified: '2016-08-08T03:31:26.380Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-03-26-with-the-lessons-learned-from-the-release-of-bag-of-bones-i.md
+via: {}
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-26-with-the-lessons-learned-from-the-release-of-bag-of-bones-i.md
-published: true
+starred: true
 url: with-the-lessons-learned-from-the-release-of-bag-of-bones-i/index.html
 _type: Article
 
