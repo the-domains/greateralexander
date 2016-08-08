@@ -1,11 +1,7 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Greater Alexander
+favicon: null
+layout_spectrum: 0.7903226
+typography_spectrum: 0.7544803
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
-color:
-  saturation: 0.7562724
-  brandStrength: 0.797491
-  lightness: 0.7885305
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  rhythmicContrast: 0.7455197
-typography_spectrum: 0.7544803
-layout_spectrum: 0.7903226
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: GreaterAlexander
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#141514'
+    - '#343634'
+    - '#747274'
+    - '#d4cecc'
+    - '#a9a5a5'
+  brandStrength: 0.797491
+  lightness: 0.7885305
+  saturation: 0.7562724
+  rhythmicContrast: 0.7455197
+purpose: []
